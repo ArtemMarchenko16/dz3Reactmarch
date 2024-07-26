@@ -24,7 +24,7 @@ const App:FC = () => {
         <h4>Previous value:{prevValue}</h4>
         <button onClick={() => {
           setNum(currentValue += 5)
-        }}>plus 10
+        }}>plus 5
         </button>
 
       </>
